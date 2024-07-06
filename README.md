@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP, apaixonada por 
 
 ## Eu gosto de ...
 
-- 🎮 Jogar
+- 🎮 Jogar 
 - 💻 Codar
 - 🧳 Viajar
 

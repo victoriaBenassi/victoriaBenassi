@@ -4,13 +4,7 @@
 
 Sou Victoria Benassi, estudante de Análise e Desenvolvimento de Sistemas na UNIP, com 19 anos e foco em desenvolvimento backend.
 
-## Eu gosto de ...
-
-- 🎮 Jogar 
-- 💻 Codar
-- 🧳 Viajar
-
-## 🔧 Tecnologias & Ferramentas
+## 🔧 Hard Skills
 
 ### Linguagens 
 

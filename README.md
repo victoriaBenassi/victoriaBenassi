@@ -1,60 +1,76 @@
-# Olá! sou Victoria Benassi 🖐️
+<h1 align="center">👩‍💻 Victoria Benassi</h1>
 
-👩‍💻 Programadora Júnior em Backend - Java
+<p align="center">
+Desenvolvedora Backend Java | Spring Boot | SQL Server | APIs RESTful  
+</p>
 
-Sou Victoria Benassi, estudante de Análise e Desenvolvimento de Sistemas na UNIP, com 19 anos e foco em desenvolvimento backend.
+<p align="center">
+🌱 Em constante evolução e aberta a oportunidades como Dev Backend Júnior  
+</p>
 
-## 🔧 Hard Skills
+---
 
-### Linguagens 
+## 🚀 Sobre mim
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+Sou formada em Análise e Desenvolvimento de Sistemas e atuo com foco em backend Java. Tenho experiência com construção de APIs RESTful, autenticação com token, modelagem de dados e testes automatizados. Meu objetivo é aplicar boas práticas de engenharia de software e crescer tecnicamente em ambientes colaborativos.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+---
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🛠 Tecnologias que domino
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-45b5aa?style=for-the-badge)
 
-### Desenvolvimento Web
+🧩 *Conhecimentos em:*  
+- Java 8+  
+- Spring Boot (MVC, JPA, Security)  
+- APIs RESTful  
+- SQL Server  
+- JUnit & Mockito  
+- API Key e autenticação  
+- Integração com APIs externas (ex: ViaCEP)  
+- Arquitetura em camadas (Controller, Service, Repository)  
+- Git e versionamento  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+📘 *Aprendendo:* Docker | Swagger/OpenAPI | Microsserviços
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🌿 Projeto em Destaque
 
-### Frameworks
+### [📦 Agroconnect – E-commerce de produtos agrícolas](https://github.com/victoriaBenassi/Agroconnect)
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+Sistema completo com:
 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- Login e cadastro com autenticação por token (API Key)
+- Gerenciamento de produtos, pedidos e usuários
+- Cálculo de frete via integração com ViaCEP
+- Separação em camadas seguindo arquitetura MVC
+- Testes com JUnit e Mockito
 
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+> Projeto finalizado e disponível no GitHub!
 
-### Banco de Dados
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+## 📊 GitHub Stats
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victoriaBenassi&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaBenassi&layout=compact&theme=tokyonight" alt="Linguagens"/>
+</p>
 
-### Sistemas Operacionais
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## Estatísticas do GitHub
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victoriaBenassi&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-benassi-a48838271/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-benassi-a48838271/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](benassi.victoria@hotmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoriaBenassi)
+
+---
+
+✨ Obrigada por visitar meu perfil!
